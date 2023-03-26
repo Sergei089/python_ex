@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    margin-bottom: 25px;
+}
+div{
+    padding: 30px;
+}
+
+.clr{
+    background-color: blanchedalmond;
+}
+
+.oficer{
+    background-color: rgb(60, 25, 216);
+    color: burlywood;
+}
+
