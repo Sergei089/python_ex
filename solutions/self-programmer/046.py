@@ -1,0 +1,1 @@
+f = open("fil.txt","w",encoding="utf8")
