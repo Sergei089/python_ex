@@ -1,0 +1,9 @@
+.parallax {
+    background-image: url("Everest.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    
+  }
+  h1 {
+      color: blueviolet;
+  }
