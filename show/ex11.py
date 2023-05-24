@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+
+
 print("Сколько тебе лет?", end= " ")
 age = input()
 print("Каков твой рост?", end = " ")

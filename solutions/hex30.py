@@ -1,5 +1,5 @@
-year = 2006
+year = 2016
 
 def is_leap_year(year):
-	return year //400 or ( year //4 , not year //100)
+	return year %400 == 0 or ( year %4 == 0 and year %100 != 0 )
 print(is_leap_year(year))
